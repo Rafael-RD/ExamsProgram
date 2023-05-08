@@ -2,9 +2,9 @@ Desenvolver um programa para verificar a nota do aluno em uma prova com 10 quest
 Maior e Menor Acerto;
 Total de Alunos que utilizaram o sistema;,
 A Média das Notas da Turma;
-Gabarito  
-01 - A
+Gabarito
 
+01 - A
 02 - B
 03 - C
 04 - D
@@ -12,7 +12,7 @@ Gabarito
 06 - E
 07 - D
 08 - C
-
 09 - B
 10 - A
+
 Após concluir isto você poderia incrementar o programa permitindo que o professor digite o gabarito da prova antes dos alunos usarem o programa.
